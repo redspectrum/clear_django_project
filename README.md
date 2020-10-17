@@ -1,0 +1,6 @@
+# django clear project
+
+
+
+
+
